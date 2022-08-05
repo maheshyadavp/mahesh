@@ -5,7 +5,6 @@ interface A{
 	void m1();
 }
 
-
 public class Test implements A{
 	
 	public void m1() {
