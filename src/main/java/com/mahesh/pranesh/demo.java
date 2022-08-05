@@ -7,7 +7,7 @@ public class demo {
 		int b=20;
 		int c=30;
 		int d=40;
-		System.out.println(d+b+c);
+		System.out.println("Adding:+d+b+c");
 
 	}
 
